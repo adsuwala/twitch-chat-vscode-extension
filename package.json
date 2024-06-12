@@ -1,6 +1,6 @@
 {
   "name": "twitch-chat-vscode-extension",
-  "displayName": "Twitch Chat",
+  "displayName": "Twitch Chat VSCode",
   "description": "Twitch chat for vscode",
   "publisher": "adz1u",
   "version": "0.0.1",
